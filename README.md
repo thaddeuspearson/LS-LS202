@@ -7,4 +7,4 @@ Repository for working through Launch School's LS202 Course
 1. 
 
 ## :clipboard: Notes
-- 
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
