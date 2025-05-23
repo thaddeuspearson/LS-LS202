@@ -17,3 +17,16 @@ Repository for working through Launch School's LS202 Course
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 - [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+
+- **Simple HTML Skeleton**:
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>your page title goes here</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    </body>
+    </html>
+    ```
