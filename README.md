@@ -5,7 +5,11 @@ Repository for working through Launch School's LS202 Course
 1. 
 
 ## :memo: Articles
-1. 
+1. [Bulding Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+
+1. [Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+
+1. [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 
 ## :clipboard: Notes
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
