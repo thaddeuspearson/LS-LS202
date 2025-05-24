@@ -18,6 +18,8 @@ Repository for working through Launch School's LS202 Course
 
 - [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
+- [HTML5 Element Flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+
 - **Simple HTML Skeleton**:
     ```html
     <!DOCTYPE html>
