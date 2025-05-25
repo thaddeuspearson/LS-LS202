@@ -20,6 +20,8 @@ Repository for working through Launch School's LS202 Course
 
 - [HTML5 Element Flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 
+- [CSS Diner](https://flukeout.github.io/)
+
 - **Simple HTML Skeleton**:
     ```html
     <!DOCTYPE html>
