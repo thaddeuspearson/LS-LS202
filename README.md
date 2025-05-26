@@ -13,6 +13,8 @@ Repository for working through Launch School's LS202 Course
 
 1. [Box Sizing](https://css-tricks.com/box-sizing/)
 
+1. [Fighting the Space Between In-line block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+
 ## :clipboard: Notes
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
 
