@@ -11,6 +11,8 @@ Repository for working through Launch School's LS202 Course
 
 1. [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 
+1. [Box Sizing](https://css-tricks.com/box-sizing/)
+
 ## :clipboard: Notes
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
 
